@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like storefront with node",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johndoe0914/bamazon.git"
+  },
+  "keywords": [],
+  "author": "Jonathan Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johndoe0914/bamazon/issues"
+  },
+  "homepage": "https://github.com/Johndoe0914/bamazon#readme",
+  "dependencies": {
+    "cli-table3": "^0.5.1",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
